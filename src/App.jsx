@@ -25,12 +25,12 @@ const App = () => {
       },
       {
         title: 'Card 5',
-        description: 'Description for Card 4',
+        description: 'Description for Card 5',
         imageUrl: 'https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGljfGVufDB8fDB8fHww',
       },
       {
         title: 'Card 6',
-        description: 'Description for Card 4',
+        description: 'Description for Card 6',
         imageUrl: 'https://images.pexels.com/photos/15006072/pexels-photo-15006072/free-photo-of-view-of-pic-du-midi-d-ossau-mountain-in-france.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500https://thumbs.dreamstime.com/b/beauty-rosy-clouds-grass-sky-56020942.jpg',
       },
    
